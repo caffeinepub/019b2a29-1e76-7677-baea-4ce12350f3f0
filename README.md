@@ -1,2 +1,8 @@
-# 019b2a29-1e76-7677-baea-4ce12350f3f0
-Exported from Caffeine project: Uno Flip Landing Page
+## Uno Flip Landing Page
+
+To run app build and run docker image:
+
+```
+docker build -t app .
+docker run -it --network host app
+```

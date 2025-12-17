@@ -1,0 +1,5 @@
+{
+  "frontend/src/App.tsx": "Main application component that displays \"Uno flip.\" centered on a white background with a footer containing attribution to caffeine.ai.",
+  "frontend/src/index.css": "Global styles with OKLCH color system and explicit white background and black text styling for the body element.",
+  "frontend/src/hooks/useQueries.ts": "Empty file as no backend queries are required for this static landing page."
+}
